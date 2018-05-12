@@ -1,0 +1,28 @@
+_repo: Irish-Fairy-Tales_29311
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leamy, Edmund
+    birthdate: 1848
+    deathdate: 1904
+    gutenberg_agent_id: '25152'
+    url: http://www.gutenberg.org/2009/agents/25152
+description: Cover; Copyright; Contents; Princess Finola and the Dwarf; The House
+  in the Lake; The Little White Cat; The Golden Spears; The Fairy Tree of Dooros;
+  The Enchanted Cave; The Huntsman's Son; Notes; About the Publisher; Advertisement.
+gutenberg_issued: '2009-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Ireland'
+title: Irish Fairy Tales
+url: http://www.gutenberg.org/ebooks/29311
